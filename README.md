@@ -33,6 +33,8 @@ cmake ..
 make
 ```
 
+⚠️ **Note on Thermal Throttling**: The simulation engine and multi-dimensional computations can be CPU-intensive. During extended build times or heavy simulations, monitor your system temperature. Ensure adequate cooling and ventilation to prevent thermal throttling, which may impact performance.
+
 ## Usage
 
 [Add usage examples and documentation here]
